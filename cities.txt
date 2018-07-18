@@ -1,0 +1,18 @@
+city = {"seoul":'서울'
+,"gwangju":'광주'
+,"gyeonggi":'경기'
+,"gangwon":'강원'
+,"jeju":'제주'
+,"busan":'부산'
+,"incheon":'인천'
+,"chungnam":'충남'
+,"jeonnam":'전남'
+,"chungbuk":'충북'
+,"daegu":'대구'
+,"gyeongnam":'경남'
+,"daejeon":'대전'
+,"gyeongbuk":'경북'
+,"ulsan":'울산'
+,"jeonbuk":'전북'
+}
+
